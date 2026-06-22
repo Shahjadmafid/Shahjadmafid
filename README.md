@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Sahjad mafid
 #### I am GitHub Readme Generator's creator
 I'm a passionate Front-End Web Developer dedicated to building clean, responsive, and user-friendly websites with a strong focus on quality and client satisfaction. I enjoy transforming ideas into functional digital experiences and solving real-world problems through code.
 
